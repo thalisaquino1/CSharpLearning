@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialExercises", "SequentialExercises\SequentialExercises.csproj", "{6CFB25C5-A5B4-4937-8B28-34BBA40FFDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFB25C5-A5B4-4937-8B28-34BBA40FFDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFB25C5-A5B4-4937-8B28-34BBA40FFDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFB25C5-A5B4-4937-8B28-34BBA40FFDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFB25C5-A5B4-4937-8B28-34BBA40FFDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
